@@ -1,7 +1,8 @@
 print("My name is Becca")
 print("My name is Monica")
-<<<<<<< HEAD
 print("Helloooo")
-=======
 print("I was born in Nebraska")
->>>>>>> refs/remotes/origin/master
+print('My favorite food is dark chocolate')
+print('My favorite type of music is pop')
+print('My astrological sign is aries')
+print('My moms maiden name is Joffe')
