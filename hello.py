@@ -1,1 +1,2 @@
-print("hi my name is monica")
+print("My name is Becca")
+print("My name is Monica")
